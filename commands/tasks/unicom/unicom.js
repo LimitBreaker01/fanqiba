@@ -310,12 +310,12 @@ var start = async (params) => {
 
 
 
-/*
+
   // 首页-签到有礼-免费拿-猜拳拿奖
   await scheduler.regTask('dailyFingerSign', async (request) => {
     await require('./dailyFingerSign').doTask(request, options)
   }, taskOption)
-*/
+
 
 
 
